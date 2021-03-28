@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vivadoHLSLog:LogRoot xmlns:vivadoHLSLog="www.xilinx.com/vivadoHLSLog">
+  <errorLogs>
+    <logs>
+      <csimLog>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="FindContours" solutionName="solution1" date="2021-03-11T20:59:15.041+0100"/>
+        <logs message="@E Simulation failed.&#xD;&#xA;" projectName="FindContours" solutionName="solution1" date="2021-03-11T01:01:58.781+0100"/>
+        <logs message="ERROR: [SIM 211-100] CSim file generation failed: compilation error(s)." projectName="FindContours" solutionName="solution1" date="2021-03-11T00:38:18.398+0100"/>
+      </csimLog>
+    </logs>
+  </errorLogs>
+  <warningLogs>
+    <logs>
+      <csimLog>
+        <logs message="WARNING: Hls::stream 'hls::stream&lt;ap_axiu&lt;24, 1, 1, 1> >.1' contains leftover data, which may result in RTL simulation hanging." projectName="FindContours" solutionName="solution1" date="2021-03-23T19:12:53.921+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'xilinx/Virtex-7/Virtex-7'." projectName="FindContours" solutionName="solution1" date="2021-03-23T19:12:39.406+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'C:/Xilinx/Vivado/2019.2/common/technology/xilinx/Virtex-7/Virtex-7.lib'." projectName="FindContours" solutionName="solution1" date="2021-03-23T19:12:37.759+0100" type="Warning"/>
+        <logs message="WARNING: Hls::stream 'hls::stream&lt;ap_axiu&lt;24, 1, 1, 1> >.1' contains leftover data, which may result in RTL simulation hanging." projectName="FindContours" solutionName="solution1" date="2021-03-23T19:03:13.289+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'xilinx/Virtex-7/Virtex-7'." projectName="FindContours" solutionName="solution1" date="2021-03-23T19:02:56.755+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'C:/Xilinx/Vivado/2019.2/common/technology/xilinx/Virtex-7/Virtex-7.lib'." projectName="FindContours" solutionName="solution1" date="2021-03-23T19:02:53.912+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'xilinx/Virtex-7/Virtex-7'." projectName="FindContours" solutionName="solution1" date="2021-03-11T21:12:56.036+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'C:/Xilinx/Vivado/2019.2/common/technology/xilinx/Virtex-7/Virtex-7.lib'." projectName="FindContours" solutionName="solution1" date="2021-03-11T21:12:54.369+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'xilinx/Virtex-7/Virtex-7'." projectName="FindContours" solutionName="solution1" date="2021-03-11T21:11:47.789+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'C:/Xilinx/Vivado/2019.2/common/technology/xilinx/Virtex-7/Virtex-7.lib'." projectName="FindContours" solutionName="solution1" date="2021-03-11T21:11:46.165+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'xilinx/Virtex-7/Virtex-7'." projectName="FindContours" solutionName="solution1" date="2021-03-11T21:09:49.705+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'C:/Xilinx/Vivado/2019.2/common/technology/xilinx/Virtex-7/Virtex-7.lib'." projectName="FindContours" solutionName="solution1" date="2021-03-11T21:09:48.081+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'xilinx/Virtex-7/Virtex-7'." projectName="FindContours" solutionName="solution1" date="2021-03-11T21:09:06.673+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'C:/Xilinx/Vivado/2019.2/common/technology/xilinx/Virtex-7/Virtex-7.lib'." projectName="FindContours" solutionName="solution1" date="2021-03-11T21:09:05.078+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'xilinx/Virtex-7/Virtex-7'." projectName="FindContours" solutionName="solution1" date="2021-03-11T21:02:29.570+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'C:/Xilinx/Vivado/2019.2/common/technology/xilinx/Virtex-7/Virtex-7.lib'." projectName="FindContours" solutionName="solution1" date="2021-03-11T21:02:27.907+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'xilinx/Virtex-7/Virtex-7'." projectName="FindContours" solutionName="solution1" date="2021-03-11T21:01:13.602+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'C:/Xilinx/Vivado/2019.2/common/technology/xilinx/Virtex-7/Virtex-7.lib'." projectName="FindContours" solutionName="solution1" date="2021-03-11T21:01:11.937+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'xilinx/Virtex-7/Virtex-7'." projectName="FindContours" solutionName="solution1" date="2021-03-11T20:59:04.284+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'C:/Xilinx/Vivado/2019.2/common/technology/xilinx/Virtex-7/Virtex-7.lib'." projectName="FindContours" solutionName="solution1" date="2021-03-11T20:59:02.672+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'xilinx/Virtex-7/Virtex-7'." projectName="FindContours" solutionName="solution1" date="2021-03-11T20:56:35.550+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'C:/Xilinx/Vivado/2019.2/common/technology/xilinx/Virtex-7/Virtex-7.lib'." projectName="FindContours" solutionName="solution1" date="2021-03-11T20:56:33.880+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'xilinx/Virtex-7/Virtex-7'." projectName="FindContours" solutionName="solution1" date="2021-03-11T20:48:52.131+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'C:/Xilinx/Vivado/2019.2/common/technology/xilinx/Virtex-7/Virtex-7.lib'." projectName="FindContours" solutionName="solution1" date="2021-03-11T20:48:50.446+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'xilinx/Virtex-7/Virtex-7'." projectName="FindContours" solutionName="solution1" date="2021-03-11T19:59:18.000+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'C:/Xilinx/Vivado/2019.2/common/technology/xilinx/Virtex-7/Virtex-7.lib'." projectName="FindContours" solutionName="solution1" date="2021-03-11T19:59:16.294+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'xilinx/Virtex-7/Virtex-7'." projectName="FindContours" solutionName="solution1" date="2021-03-11T19:45:52.241+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'C:/Xilinx/Vivado/2019.2/common/technology/xilinx/Virtex-7/Virtex-7.lib'." projectName="FindContours" solutionName="solution1" date="2021-03-11T19:45:50.597+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'xilinx/Virtex-7/Virtex-7'." projectName="FindContours" solutionName="solution1" date="2021-03-11T19:44:51.243+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'C:/Xilinx/Vivado/2019.2/common/technology/xilinx/Virtex-7/Virtex-7.lib'." projectName="FindContours" solutionName="solution1" date="2021-03-11T19:44:49.598+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'xilinx/Virtex-7/Virtex-7'." projectName="FindContours" solutionName="solution1" date="2021-03-11T19:36:17.796+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'C:/Xilinx/Vivado/2019.2/common/technology/xilinx/Virtex-7/Virtex-7.lib'." projectName="FindContours" solutionName="solution1" date="2021-03-11T19:36:16.176+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'xilinx/Virtex-7/Virtex-7'." projectName="FindContours" solutionName="solution1" date="2021-03-11T18:55:51.017+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'C:/Xilinx/Vivado/2019.2/common/technology/xilinx/Virtex-7/Virtex-7.lib'." projectName="FindContours" solutionName="solution1" date="2021-03-11T18:55:49.278+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'xilinx/Virtex-7/Virtex-7'." projectName="FindContours" solutionName="solution1" date="2021-03-11T18:35:38.161+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'C:/Xilinx/Vivado/2019.2/common/technology/xilinx/Virtex-7/Virtex-7.lib'." projectName="FindContours" solutionName="solution1" date="2021-03-11T18:35:36.500+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'xilinx/Virtex-7/Virtex-7'." projectName="FindContours" solutionName="solution1" date="2021-03-11T18:28:06.123+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'C:/Xilinx/Vivado/2019.2/common/technology/xilinx/Virtex-7/Virtex-7.lib'." projectName="FindContours" solutionName="solution1" date="2021-03-11T18:28:04.488+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'xilinx/Virtex-7/Virtex-7'." projectName="FindContours" solutionName="solution1" date="2021-03-11T18:24:59.932+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'C:/Xilinx/Vivado/2019.2/common/technology/xilinx/Virtex-7/Virtex-7.lib'." projectName="FindContours" solutionName="solution1" date="2021-03-11T18:24:58.263+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'xilinx/Virtex-7/Virtex-7'." projectName="FindContours" solutionName="solution1" date="2021-03-11T18:20:45.173+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'C:/Xilinx/Vivado/2019.2/common/technology/xilinx/Virtex-7/Virtex-7.lib'." projectName="FindContours" solutionName="solution1" date="2021-03-11T18:20:43.406+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'xilinx/Virtex-7/Virtex-7'." projectName="FindContours" solutionName="solution1" date="2021-03-11T18:07:00.947+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'C:/Xilinx/Vivado/2019.2/common/technology/xilinx/Virtex-7/Virtex-7.lib'." projectName="FindContours" solutionName="solution1" date="2021-03-11T18:06:59.318+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'xilinx/Virtex-7/Virtex-7'." projectName="FindContours" solutionName="solution1" date="2021-03-11T18:00:43.460+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'C:/Xilinx/Vivado/2019.2/common/technology/xilinx/Virtex-7/Virtex-7.lib'." projectName="FindContours" solutionName="solution1" date="2021-03-11T18:00:41.848+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'xilinx/Virtex-7/Virtex-7'." projectName="FindContours" solutionName="solution1" date="2021-03-11T17:55:15.345+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'C:/Xilinx/Vivado/2019.2/common/technology/xilinx/Virtex-7/Virtex-7.lib'." projectName="FindContours" solutionName="solution1" date="2021-03-11T17:55:13.694+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'xilinx/Virtex-7/Virtex-7'." projectName="FindContours" solutionName="solution1" date="2021-03-11T17:47:13.384+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'C:/Xilinx/Vivado/2019.2/common/technology/xilinx/Virtex-7/Virtex-7.lib'." projectName="FindContours" solutionName="solution1" date="2021-03-11T17:47:11.692+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'xilinx/Virtex-7/Virtex-7'." projectName="FindContours" solutionName="solution1" date="2021-03-11T17:44:22.186+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'C:/Xilinx/Vivado/2019.2/common/technology/xilinx/Virtex-7/Virtex-7.lib'." projectName="FindContours" solutionName="solution1" date="2021-03-11T17:44:20.528+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'xilinx/Virtex-7/Virtex-7'." projectName="FindContours" solutionName="solution1" date="2021-03-11T17:20:48.368+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'C:/Xilinx/Vivado/2019.2/common/technology/xilinx/Virtex-7/Virtex-7.lib'." projectName="FindContours" solutionName="solution1" date="2021-03-11T17:20:46.700+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'xilinx/Virtex-7/Virtex-7'." projectName="FindContours" solutionName="solution1" date="2021-03-11T17:20:00.923+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'C:/Xilinx/Vivado/2019.2/common/technology/xilinx/Virtex-7/Virtex-7.lib'." projectName="FindContours" solutionName="solution1" date="2021-03-11T17:19:59.232+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'xilinx/Virtex-7/Virtex-7'." projectName="FindContours" solutionName="solution1" date="2021-03-11T17:19:00.622+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'C:/Xilinx/Vivado/2019.2/common/technology/xilinx/Virtex-7/Virtex-7.lib'." projectName="FindContours" solutionName="solution1" date="2021-03-11T17:18:58.942+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'xilinx/Virtex-7/Virtex-7'." projectName="FindContours" solutionName="solution1" date="2021-03-11T17:16:36.241+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'C:/Xilinx/Vivado/2019.2/common/technology/xilinx/Virtex-7/Virtex-7.lib'." projectName="FindContours" solutionName="solution1" date="2021-03-11T17:16:34.587+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'xilinx/Virtex-7/Virtex-7'." projectName="FindContours" solutionName="solution1" date="2021-03-11T17:06:57.900+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'C:/Xilinx/Vivado/2019.2/common/technology/xilinx/Virtex-7/Virtex-7.lib'." projectName="FindContours" solutionName="solution1" date="2021-03-11T17:06:55.209+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'xilinx/Virtex-7/Virtex-7'." projectName="FindContours" solutionName="solution1" date="2021-03-11T01:28:42.899+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'C:/Xilinx/Vivado/2019.2/common/technology/xilinx/Virtex-7/Virtex-7.lib'." projectName="FindContours" solutionName="solution1" date="2021-03-11T01:28:41.230+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'xilinx/Virtex-7/Virtex-7'." projectName="FindContours" solutionName="solution1" date="2021-03-11T00:54:52.822+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'C:/Xilinx/Vivado/2019.2/common/technology/xilinx/Virtex-7/Virtex-7.lib'." projectName="FindContours" solutionName="solution1" date="2021-03-11T00:54:51.124+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'xilinx/Virtex-7/Virtex-7'." projectName="FindContours" solutionName="solution1" date="2021-03-11T00:50:51.533+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'C:/Xilinx/Vivado/2019.2/common/technology/xilinx/Virtex-7/Virtex-7.lib'." projectName="FindContours" solutionName="solution1" date="2021-03-11T00:50:49.875+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'xilinx/Virtex-7/Virtex-7'." projectName="FindContours" solutionName="solution1" date="2021-03-11T00:42:41.553+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'C:/Xilinx/Vivado/2019.2/common/technology/xilinx/Virtex-7/Virtex-7.lib'." projectName="FindContours" solutionName="solution1" date="2021-03-11T00:42:39.959+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'xilinx/Virtex-7/Virtex-7'." projectName="FindContours" solutionName="solution1" date="2021-03-11T00:37:52.607+0100" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Cannot find library 'C:/Xilinx/Vivado/2019.2/common/technology/xilinx/Virtex-7/Virtex-7.lib'." projectName="FindContours" solutionName="solution1" date="2021-03-11T00:37:50.884+0100" type="Warning"/>
+      </csimLog>
+    </logs>
+  </warningLogs>
+</vivadoHLSLog:LogRoot>

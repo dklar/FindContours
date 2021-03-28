@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="top_level.cpp" path="C:\Users\Dennis\VivadoHLS\FindContours\top_level.cpp"/>
+    <originFiles name="top_level.hpp" path="C:\Users\Dennis\VivadoHLS\FindContours\top_level.hpp"/>
+  </source>
+  <testbench>
+    <originFiles name="foto.jpg" path="C:\Users\Dennis\VivadoHLS\FindContours\foto.jpg"/>
+    <originFiles name="tb.cpp" path="C:\Users\Dennis\VivadoHLS\FindContours\tb.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>
